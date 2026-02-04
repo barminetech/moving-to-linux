@@ -135,6 +135,12 @@ Arch isn’t about convenience—it’s about control. If you enjoy learning how
 
 ---
 
+## Connecting to your Linux Machine
+
+https://www.nomachine.com/
+
+I use NoMachine as a remote connection program to connect to my Linux machine. It works similar to a VNC viewer and has all the features with no latency.
+
 ## Final Thoughts
 
 Linux isn’t a one-size-fits-all solution—and that’s actually its biggest strength. Whether you want something simple and familiar or fully customizable from the ground up, there’s a distro that fits.
