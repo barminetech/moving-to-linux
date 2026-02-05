@@ -146,3 +146,11 @@ I use NoMachine as a remote connection program to connect to my Linux machine. I
 Linux isn’t a one-size-fits-all solution—and that’s actually its biggest strength. Whether you want something simple and familiar or fully customizable from the ground up, there’s a distro that fits.
 
 If you’re unsure, start with something beginner-friendly, test it in a VM or dual-boot, and move at your own pace.
+
+
+### Links to Mentioned Resources
+- Windows forced updates & behavior — https://en.wikipedia.org/wiki/Windows_10  
+- Microsoft telemetry explained — https://www.gnu.org/malware/proprietary-surveillance  
+- Linux distros without telemetry — https://www.blogarama.com/technology-blogs/1434698-tech-blog/71999954-linux-distros-without-telemetry-2026  
+- Ubuntu opt-in telemetry info — https://discourse.ubuntu.com/t/ubuntu-insights-how-telemetry-is-changing-on-ubuntu-desktop/73442  
+- Why Linux doesn’t require strict hardware checks — https://blog.silverpc.hu/2025/10/22/a-deep-dive-is-installing-linux-really-less-of-a-pain-than-using-windows-11/
