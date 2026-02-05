@@ -8,6 +8,23 @@ There’s no single “best” distro—only what fits your workflow, experience
 
 ---
 
+## Hardware Requirements Comparison: Windows 11 vs. Linux
+
+| **Component** | **Windows 11 (Official Minimum)** | **Linux (Typical / Examples)** |
+|---------------|----------------------------------|-------------------------------|
+| **CPU**       | 1 GHz or faster, 2+ cores, 64-bit compatible | Most distros run on *any* 1 GHz+ x86/ARM CPU; lightweight distros run on much older CPUs |
+| **Architecture** | 64-bit only | 64-bit and 32-bit (varies by distro), some run on very old hardware |
+| **RAM**       | 4 GB minimum | 512 MB+ (minimal install), 2 GB+ recommended for modern desktop |
+| **Disk Space**| 64 GB minimum | ~8–20 GB for typical desktop, much less for lightweight distributions |
+| **Display**   | 720p (1280×720) minimum | Varies — many distros work with lower resolutions |
+| **Graphics**  | DirectX 12 compatible GPU | X11/OpenGL2/Wayland support (broad hardware support) |
+| **Firmware**  | UEFI with Secure Boot | UEFI or BIOS; Secure Boot optional/support varies |
+| **TPM**       | TPM 2.0 required | Not required for installation or use |
+| **Internet**  | Required for setup (Windows Home) | Optional for install and use |
+| **Account**   | Microsoft account required for setup (Home) | No account required |
+
+---
+
 ## Linux Mint
 
 🔗 https://linuxmint.com
